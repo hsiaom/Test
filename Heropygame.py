@@ -82,9 +82,7 @@ while finish != True:
     hero_group.draw(screen)
     pygame.display.update()
 
-    candies.draw(screen)
-    hero_group.draw(screen)
-    pygame.display.update()
+   aufhafadkuf
 
     pygame.sprite.groupcollide(hero_group, candies, False, True)
     
