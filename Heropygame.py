@@ -82,7 +82,7 @@ while finish != True:
     hero_group.draw(screen)
     pygame.display.update()
 
-   aufhafadkuf
+   diasflkasjlkfalkfaslkflkasjfksajklflksjflksaajlk
 
     pygame.sprite.groupcollide(hero_group, candies, False, True)
     
